@@ -15,8 +15,9 @@
   const hint = document.getElementById('hint');
   const matchNotice = document.getElementById('matchNotice');
 
-  const LIGHTER_OFF = 'korek.png';
-  const LIGHTER_ON  = 'korekapi.png';
+  const LIGHTER_OFF = 'korek.png?v=1';
+  const LIGHTER_ON  = 'korekapi.png?v=1';
+
 
   const messages = [
     "Selamat ulang tahun, sayangggg 💖.",
@@ -321,3 +322,4 @@
   })();
 
 })();
+
